@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color: white;
+    background: linear-gradient(to left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 5px;
+}
+h2{
+    background: linear-gradient(skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: navy;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+#footer{
+    background-color: grey;
+    text-align: right;
+    padding: 5px;
+}
+form{
+    background: linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-weight: bold;
+    color: red;
+}
+button{
+    background-color: grey;
+    font-weight: bold;
+}
+tables{
+    background: linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-weight: bold;
+}
